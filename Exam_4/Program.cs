@@ -12,7 +12,8 @@ namespace Exam_4
     {
         static void Main(string[] args)
         {
-
+            var er = new EngineerRepository();
+            er.GetAllEngineersInCityWhichLikeCallOfDuty(1);
         }
     }
 
@@ -45,6 +46,8 @@ namespace Exam_4
     {
         public DbSet<City> Cities { get; set; }
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<Engineer> Engineers { get; set; }
+        public DbSet<Doctor> Doctors { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
@@ -71,10 +74,8 @@ namespace Exam_4
         {
             using (var ctx = new Context())
             {
-                return ctx.Employees.Where(e => e is Engineer && e.CityId == cityId)
-                        .Select(e => e as Engineer)
-                        .Where(e => e.FavoriteVideogame.Contains("Call Of Duty"))
-                        .ToList();
+                var k = ctx.Engineers.Where(e => e.FavoriteVideogame.Contains("Call Of Duty") && e.CityId == cityId);
+                return k.ToList();
             }
         }
     }
