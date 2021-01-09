@@ -1,0 +1,12 @@
+C:\Users\zinda\source\repos\Exam\Exam_4\bin\Debug\Exam_4.exe.config
+C:\Users\zinda\source\repos\Exam\Exam_4\bin\Debug\Exam_4.exe
+C:\Users\zinda\source\repos\Exam\Exam_4\bin\Debug\Exam_4.pdb
+C:\Users\zinda\source\repos\Exam\Exam_4\bin\Debug\EntityFramework.dll
+C:\Users\zinda\source\repos\Exam\Exam_4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zinda\source\repos\Exam\Exam_4\bin\Debug\EntityFramework.xml
+C:\Users\zinda\source\repos\Exam\Exam_4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zinda\source\repos\Exam\Exam_4\obj\Debug\Exam_4.csprojAssemblyReference.cache
+C:\Users\zinda\source\repos\Exam\Exam_4\obj\Debug\Exam_4.csproj.CoreCompileInputs.cache
+C:\Users\zinda\source\repos\Exam\Exam_4\obj\Debug\Exam_4.csproj.CopyComplete
+C:\Users\zinda\source\repos\Exam\Exam_4\obj\Debug\Exam_4.exe
+C:\Users\zinda\source\repos\Exam\Exam_4\obj\Debug\Exam_4.pdb

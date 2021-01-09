@@ -1,0 +1,7 @@
+C:\Users\zinda\source\repos\Exam\Exam_3\bin\Debug\Exam_3.exe.config
+C:\Users\zinda\source\repos\Exam\Exam_3\bin\Debug\Exam_3.exe
+C:\Users\zinda\source\repos\Exam\Exam_3\bin\Debug\Exam_3.pdb
+C:\Users\zinda\source\repos\Exam\Exam_3\obj\Debug\Exam_3.csprojAssemblyReference.cache
+C:\Users\zinda\source\repos\Exam\Exam_3\obj\Debug\Exam_3.csproj.CoreCompileInputs.cache
+C:\Users\zinda\source\repos\Exam\Exam_3\obj\Debug\Exam_3.exe
+C:\Users\zinda\source\repos\Exam\Exam_3\obj\Debug\Exam_3.pdb
